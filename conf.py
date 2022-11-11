@@ -20,9 +20,21 @@ author = "Ruslan Kid"
 
 extensions = []
 templates_path = ["_templates"]
-
-html_theme_path = ['cv_rtd/src/inspirid_sphinx_theme']
-html_theme = "inspirid"
+html_favicon = 'favico.png'
+html_theme = "sphinx_rtd_theme"
+html_theme_options = {
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    'style_nav_header_background': '#343131',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
 html_title = "CV"
 html_logo = "logo.png"
 language = "ru"
