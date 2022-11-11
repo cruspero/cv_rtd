@@ -30,7 +30,7 @@ extensions = [
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
     # Our custom extension, only meant for Furo's own documentation.
-    "furo.sphinxext",
+    #"furo.sphinxext",
     # External stuff
     #"sphinx_design",
     #"sphinx_inline_tabs",
