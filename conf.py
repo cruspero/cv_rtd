@@ -7,9 +7,6 @@ import os
 import sys
 from typing import Any, Dict
 
-# add the demo python code to the path, so that it can be used to demonstrate
-# source links
-sys.path.append(os.path.abspath("./kitchen-sink/demo_py"))
 
 # -- Project information -----------------------------------------------------
 #
@@ -21,25 +18,11 @@ author = "Ruslan Kid"
 # -- General configuration ---------------------------------------------------
 #
 
-extensions = [
-    # Sphinx's own extensions
-    "sphinx.ext.autodoc",
-    "sphinx.ext.extlinks",
-    "sphinx.ext.intersphinx",
-    "sphinx.ext.mathjax",
-    "sphinx.ext.todo",
-    "sphinx.ext.viewcode",
-    # Our custom extension, only meant for Furo's own documentation.
-    #"furo.sphinxext",
-    # External stuff
-    #"sphinx_design",
-    #"sphinx_inline_tabs",
-]
+extensions = []
 templates_path = ["_templates"]
 
-
-html_theme = "furo"
-html_theme_path = 'theme/furo'
+html_theme_path = ['cv_rtd/src/inspirid_sphinx_theme']
+html_theme = "inspirid"
 html_title = "CV"
 html_logo = "logo.png"
 language = "ru"
