@@ -39,6 +39,7 @@ templates_path = ["_templates"]
 
 
 html_theme = "furo"
+html_theme_path = 'theme/furo'
 html_title = "CV"
 html_logo = "logo.png"
 language = "ru"
