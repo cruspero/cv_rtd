@@ -1,0 +1,1 @@
+Docs for Beremiz will be placed here: https://bric-beremiz.readthedocs.io/ru/latest/#
