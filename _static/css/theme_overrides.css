@@ -1,24 +1,5 @@
 /* override table width restrictions */
-@media screen and (min-width: 767px) {
-   .wy-table-responsive {
-      overflow: visible !important;
-   }
-   .wy-table-responsive table td {
-      /* !important prevents the common CSS stylesheets from overriding
-         this as on RTD they are loaded after this stylesheet */
-      white-space: normal !important;
-   }
-
-   .rst-content div[class^=highlight] pre {
-      white-space: pre;
-      margin: 0;
-      padding: 12px;
-      display: block;
-      overflow: auto;
-      background-color: oldlace;
-  }
-}
-.wy-side-nav-search input {
+input {
    display: none;
    visibility: hidden;
 }
