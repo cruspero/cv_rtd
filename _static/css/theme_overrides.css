@@ -18,3 +18,7 @@
       background-color: oldlace;
   }
 }
+.wy-side-nav-search input {
+   display: none;
+   visibility: hidden;
+}
