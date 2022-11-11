@@ -37,42 +37,9 @@ extensions = [
 ]
 templates_path = ["_templates"]
 
-# -- Options for extlinks ----------------------------------------------------
-#
-
-extlinks = {
-    "pypi": ("https://pypi.org/project/%s/", "%s"),
-}
-
-# -- Options for intersphinx -------------------------------------------------
-#
-
-intersphinx_mapping = {
-    "python": ("https://docs.python.org/3", None),
-    "sphinx": ("https://www.sphinx-doc.org/en/master", None),
-}
-
-# -- Options for TODOs -------------------------------------------------------
-#
-
-todo_include_todos = True
-
-# -- Options for Markdown files ----------------------------------------------
-#
-
-myst_enable_extensions = [
-    "colon_fence",
-    "deflist",
-]
-myst_heading_anchors = 3
-
-# -- Options for HTML output -------------------------------------------------
-#
 
 html_theme = "furo"
 html_title = "CV"
 html_logo = "logo.png"
 language = "ru"
 
-html_static_path = ["_static"]
-html_css_files = ["pied-piper-admonition.css"]
