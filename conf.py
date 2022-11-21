@@ -17,7 +17,14 @@ author = "Ruslan Kid"
 
 # -- General configuration ---------------------------------------------------
 #
-
+html_static_path = ['_static']
+html_js_files = [
+    'https://cdn.amcharts.com/lib/5/index.js',
+    'https://cdn.amcharts.com/lib/5/xy.js',
+    'https://cdn.amcharts.com/lib/5/radar.js',
+    'https://cdn.amcharts.com/lib/5/themes/Animated.js',
+    'js/chart_my.js'
+]
 extensions = []
 templates_path = ["_templates"]
 html_favicon = 'favico.png'
