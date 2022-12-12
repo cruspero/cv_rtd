@@ -3,3 +3,6 @@ input {
    display: none;
    visibility: hidden;
 }
+.wy-nav-content {
+   background: #efefef;
+ }

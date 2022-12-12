@@ -9,11 +9,20 @@
 
 .. raw:: html
 
-   <iframe id="d0007eb1-d92c-4f20-87b1-54319c2b498a" src="https://app.vectary.com/viewer/v1/?model=d0007eb1-d92c-4f20-87b1-54319c2b498a&env=cedarbridge" frameborder="0" width="100%" height="480"></iframe>
+   <iframe id="f33606e0-0a81-4a81-aee7-80f4643524e7" src="https://app.vectary.com/viewer/v1/?model=f33606e0-0a81-4a81-aee7-80f4643524e7&turntable=1&showInteractionPrompt=0" frameborder="0" width="100%" height="250"></iframe>
 
 Дата рождения
 -------------
-05.09.1989
+**05.09.1989**
+
+Место рождения
+--------------
+Республика Башкортостан
+
+
+
+Скиллы
+------
 
 .. raw:: html
    

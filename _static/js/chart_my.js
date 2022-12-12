@@ -9,7 +9,8 @@ var root = am5.Root.new("chartdiv");
 // Set themes
 // https://www.amcharts.com/docs/v5/concepts/themes/
 root.setThemes([
-  am5themes_Animated.new(root)
+  am5themes_Animated.new(root),
+  am5themes_Kelly.new(root)
 ]);
 
 
@@ -105,5 +106,6 @@ xAxis.data.setAll(data);
 // https://www.amcharts.com/docs/v5/concepts/animations/#Initial_animation
 series.appear(1000);
 chart.appear(1000, 100);
+
 
 }); // end am5.ready()

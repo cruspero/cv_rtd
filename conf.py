@@ -23,10 +23,14 @@ html_js_files = [
     'https://cdn.amcharts.com/lib/5/xy.js',
     'https://cdn.amcharts.com/lib/5/radar.js',
     'https://cdn.amcharts.com/lib/5/themes/Animated.js',
+    'https://cdn.amcharts.com/lib/5/themes/Kelly.js',
     'js/chart_my.js'
 ]
 extensions = []
 templates_path = ["_templates"]
+html_css_files = [
+    'css/theme_overrides.css',
+]
 html_favicon = 'favico.png'
 html_theme = "sphinx_rtd_theme"
 html_theme_options = {
