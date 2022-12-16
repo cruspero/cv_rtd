@@ -19,12 +19,7 @@ author = "Ruslan Kid"
 #
 html_static_path = ['_static']
 html_js_files = [
-    'https://cdn.amcharts.com/lib/5/index.js',
-    'https://cdn.amcharts.com/lib/5/xy.js',
-    'https://cdn.amcharts.com/lib/5/radar.js',
-    'https://cdn.amcharts.com/lib/5/themes/Animated.js',
-    'https://cdn.amcharts.com/lib/5/themes/Kelly.js',
-    'js/chart_my.js'
+    'https://cdn.jsdelivr.net/npm/chart.js'
 ]
 extensions = []
 templates_path = ["_templates"]
@@ -46,6 +41,6 @@ html_theme_options = {
     'titles_only': False
 }
 html_title = "CV"
-html_logo = "logo.png"
+html_logo = "rkid.svg"
 language = "ru"
 

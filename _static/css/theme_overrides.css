@@ -4,5 +4,8 @@ input {
    visibility: hidden;
 }
 .wy-nav-content {
-   background: #efefef;
+   background: #ffffff;
+ }
+ footer {
+   display: none;
  }
