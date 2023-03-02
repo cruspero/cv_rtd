@@ -41,6 +41,6 @@ html_theme_options = {
     'titles_only': False
 }
 html_title = "CV"
-html_logo = "rkid.svg"
+html_logo = "logo.png"
 language = "ru"
 
