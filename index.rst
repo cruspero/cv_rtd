@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-xs-12 col-lg-3">
           <nav class="navbar navbar-expand-lg navbar-dark">
-            <a class="navbar-brand" href="index.html"><img class="logo-img animate__animated animate__pulse" src="/img/logo.svg" alt="logo"></a>
+            <a class="navbar-brand" href="index.html"><img class="logo-img animate__animated animate__pulse" src="img/logo.svg" alt="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
               aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -45,7 +45,7 @@
       <div class="row">
         <div class="col-xs-12 col-lg-3">
           <div class="leftside-info">
-            <img class="profile-photo" src="/img/profile.png" alt="ava">
+            <img class="profile-photo" src="img/profile.png" alt="ava">
             <div class="profile-text">
               <p class="name-txt d-block"> Руслан <br>Кидрячев</p>
               <p class="job-txt">Инженер по тестированию</p>
@@ -66,7 +66,7 @@
                 href="mailto:ruslankidryachev@gmail.com">ruslankidryachev@gmail.com</a></p>
             <p class="main-info-title pt-3">В процессе изучения</p>
             <div class="line-dark"></div>
-            <p class="main-info-description p-2"><img src="/img/postman.svg" alt="postman"> <img src="/img/sql.png" alt="postman"> <img src="/img/jira.png" alt="jira"> <img src="/img/case.png" alt="qase"></p>
+            <p class="main-info-description p-2"><img src="img/postman.svg" alt="postman"> <img src="img/sql.png" alt="postman"> <img src="img/jira.png" alt="jira"> <img src="img/case.png" alt="qase"></p>
           </div>
         </div>
         <div class="col-xs-12 col-lg-9">
@@ -186,7 +186,7 @@
               </div>
               <div class="col-xs-3 col-3">
                 <div class="title">
-                  <img class="Bitbucket-img" src="/img/bitbucket.svg" alt="BitBucket">
+                  <img class="Bitbucket-img" src="img/bitbucket.svg" alt="BitBucket">
                 </div>
               </div>
               <div class="col-7">
@@ -199,7 +199,7 @@
               </div>
               <div class="col-xs-3 col-3">
                 <div class="title">
-                  <img class="readthedocs-img" src="/img/readthedocs.svg" alt="ReadTheDocs">
+                  <img class="readthedocs-img" src="img/readthedocs.svg" alt="ReadTheDocs">
                 </div>
               </div>
               <div class="col-7">
@@ -213,7 +213,7 @@
               </div>
               <div class="col-xs-3 col-3">
                 <div class="title">
-                  <img class="hcj-img" src="/img/hcj.svg" alt="HTML_CSS_JS">
+                  <img class="hcj-img" src="img/hcj.svg" alt="HTML_CSS_JS">
                 </div>
               </div>
               <div class="col-7">
@@ -225,7 +225,7 @@
               </div>
               <div class="col-xs-3 col-3">
                 <div class="title">
-                  <img class="figma-img" src="/img/figma.svg" alt="Figma">
+                  <img class="figma-img" src="img/figma.svg" alt="Figma">
                 </div>
               </div>
               <div class="col-7">
@@ -240,11 +240,11 @@
               <p class="education">Хобби</p>
               <div class="line-light"></div>
               <div class="pic-ctn">
-                <img src="/img/bicycle.svg" alt="bike" class="pic">
-                <img src="/img/camping-tent.svg" alt="camp" class="pic">
-                <img src="/img/listening.svg" alt="music" class="pic">
-                <img src="//img/take-a-photo.svg" alt="photo" class="pic">
-                <img src=/img/guitar.svg" alt="guitar" class="pic">
+                <img src="img/bicycle.svg" alt="bike" class="pic">
+                <img src="img/camping-tent.svg" alt="camp" class="pic">
+                <img src="img/listening.svg" alt="music" class="pic">
+                <img src="img/take-a-photo.svg" alt="photo" class="pic">
+                <img src="img/guitar.svg" alt="guitar" class="pic">
               </div>
             </div>
           </div>
