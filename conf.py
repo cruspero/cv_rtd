@@ -17,7 +17,7 @@ author = "Ruslan Kid"
 
 # -- General configuration ---------------------------------------------------
 #
-html_static_path = ['_static']
+html_static_path = ['_static', 'img']
 html_js_files = [
     'https://cdn.jsdelivr.net/npm/chart.js'
 ]
