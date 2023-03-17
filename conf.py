@@ -25,6 +25,9 @@ extensions = []
 templates_path = ["_templates"]
 html_css_files = [
     'css/theme_overrides.css',
+    'css/style.css',
+    'css/animate.css',
+    'https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css'
 ]
 html_favicon = 'favico.png'
 html_theme = "sphinx_rtd_theme"
